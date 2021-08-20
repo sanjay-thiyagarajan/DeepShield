@@ -1,0 +1,10 @@
+DeepShield/__pycache__
+predictor/__pycache__
+predictor/migrations
+DeepShield/media/*
+DeepShield/static/img/face*
+DeepShield/db.sqlite3
+bin
+lib
+share
+pyvenv.cfg
